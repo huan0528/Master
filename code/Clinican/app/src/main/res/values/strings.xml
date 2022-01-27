@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TIP OFF</string>
+    <string name="title_activity_main">Patient List</string>
+    <string name="title_activity_register">Register Patient</string>
+    <string name="title_activity_search">Search Patient</string>
+    <string name="title_activity_advanced_search">Advanced Search Patient</string>
+    <string name="title_activity_record">Patient Record</string>
+    <string name="title_activity_setting">Setting</string>
+</resources>

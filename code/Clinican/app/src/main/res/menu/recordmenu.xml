@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="40dip"
+    android:layout_width="80dip">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/action_home" android:title="Patient List" />
+        <item android:id="@+id/action_reg" android:title="Regisiter Patient" />
+        <item android:id="@+id/action_search" android:title="Search Patient" />
+        <item android:id="@+id/action_report" android:title="Report by excel" />
+        <item android:id="@+id/action_out" android:title="Log Out" />
+    </group>
+</menu>
